@@ -1,0 +1,15 @@
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson9\Task66\bin\Debug\net7.0\Task66.exe
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson9\Task66\bin\Debug\net7.0\Task66.deps.json
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson9\Task66\bin\Debug\net7.0\Task66.runtimeconfig.json
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson9\Task66\bin\Debug\net7.0\Task66.dll
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson9\Task66\bin\Debug\net7.0\Task66.pdb
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson9\Task66\obj\Debug\net7.0\Task66.csproj.AssemblyReference.cache
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson9\Task66\obj\Debug\net7.0\Task66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson9\Task66\obj\Debug\net7.0\Task66.AssemblyInfoInputs.cache
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson9\Task66\obj\Debug\net7.0\Task66.AssemblyInfo.cs
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson9\Task66\obj\Debug\net7.0\Task66.csproj.CoreCompileInputs.cache
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson9\Task66\obj\Debug\net7.0\Task66.dll
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson9\Task66\obj\Debug\net7.0\refint\Task66.dll
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson9\Task66\obj\Debug\net7.0\Task66.pdb
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson9\Task66\obj\Debug\net7.0\Task66.genruntimeconfig.cache
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson9\Task66\obj\Debug\net7.0\ref\Task66.dll
